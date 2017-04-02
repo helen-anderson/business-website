@@ -59,17 +59,17 @@ small {
 }
 
 .first {
-  background-image: url("https://rawgit.com/helen-anderson/business-website/master/img/first.jpg");
+  background-image: url("https://rawgit.com/helenanderson26/business-website/master/img/first.jpg");
   background-position: center;
 }
 
 .second {
-  background-image: url("https://rawgit.com/helen-anderson/business-website/master/img/second.jpg");
+  background-image: url("https://rawgit.com/helenanderson26/business-website/master/img/second.jpg");
   background-position: center;
 }
 
 .third {
-  background-image: url("https://rawgit.com/helen-anderson/business-website/master/img/third.jpg");
+  background-image: url("https://rawgit.com/helenanderson26/business-website/master/img/third.jpg");
   background-position: 10% 30%;
 }
 
@@ -97,5 +97,3 @@ small {
   small {
     font-size: 16px;
   }
-
-  
